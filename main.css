@@ -1,0 +1,20 @@
+.boto
+{
+    position: relative;
+    bottom:-130px!important;
+}
+.img
+{
+    height: full!important;
+}
+nav
+{
+    background: rgba(0, 0, 0, 0.2) !important;
+}
+.nono
+{
+    background-image: url(back.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    
+}
